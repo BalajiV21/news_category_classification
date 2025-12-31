@@ -443,14 +443,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Check out my other NLP projects:
 - [IMDB Sentiment Classification](https://github.com/BalajiV21/imdb_sentiment_classification) - Binary sentiment analysis with BiLSTM
 
----
 
-<div align="center">
-
-**⭐ If you found this project helpful, please consider giving it a star! ⭐**
-
-Built with ❤️ using TensorFlow, Keras, and Hugging Face Datasets
-
-[Report Bug](https://github.com/BalajiV21/news_category_classification/issues) • [Request Feature](https://github.com/BalajiV21/news_category_classification/issues)
-
-</div>
