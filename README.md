@@ -210,14 +210,8 @@ Output (Probabilities for 4 classes)
 
 ### Training Progress
 
-| Epoch | Train Acc | Val Acc | Train Loss | Val Loss |
-|-------|-----------|---------|------------|----------|
-| 1 | 69.56% | 87.42% | 0.7434 | 0.3658 |
-| 2 | 89.07% | 88.05% | 0.3165 | 0.3515 |
-| 3 | 91.02% | 87.16% | 0.2572 | 0.3601 |
-| 4 | 92.04% | 87.50% | 0.2288 | 0.3641 |
-| 5 | 92.63% | 87.72% | 0.2072 | 0.3719 |
-| 6 | 93.40% | **87.28%** | 0.1843 | 0.3983 |
+<img width="1174" height="276" alt="Screenshot 2025-12-26 021416" src="https://github.com/user-attachments/assets/16bb8a36-7324-4a40-b94f-1431b65f72e4" />
+
 
 ## 🛠️ Technology Stack
 
@@ -381,16 +375,8 @@ for title in news_titles:
 
 ## 📊 Confusion Matrix Analysis
 
-```
-                Predicted
-              W    S    B    T
-Actual  W  [ 85%  1%   8%   6% ]
-        S  [ 1%  97%   1%   1% ]
-        B  [ 9%   1%  82%   8% ]
-        T  [ 7%   1%   7%  85% ]
+<img width="778" height="590" alt="Screenshot 2025-12-26 021426" src="https://github.com/user-attachments/assets/70784e4a-3bc8-48a0-b4d5-5f491ba3b859" />
 
-W=World, S=Sports, B=Business, T=Sci/Tech
-```
 
 **Key Observations:**
 - Sports has minimal confusion (97% recall)
